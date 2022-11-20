@@ -12,7 +12,7 @@ permalink: /services/
 |----|------|
 |Minimum Fee | $100|
 |Drive Mileage (>10mi) | IRS Standard Mileage Rate|
-|Drive Time (>20min) | $50/hr|
+|Drive Time (>20min) | $60/hr|
 
 ## GIS/RS Services
 
