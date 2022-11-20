@@ -7,12 +7,15 @@ permalink: /services/
 
 ## Flat Fees & Minimums
 {{site.author.name}} will assess the following flat fees, minimums, and add-on charges for all jobs.
+
 |Fee | Rate |
 |----|------|
 |Minimum Fee | $100|
 |Drive Mileage (>10mi) | IRS Standard Mileage Rate|
 |Drive Time (>20min) | $50/hr|
+
 ## GIS/RS Services
+
 |Service | Rate |
 |--------|------|
 |GIS Data Analysis - Proprietary | $150/hr|
@@ -26,7 +29,9 @@ permalink: /services/
 |GPS Data Collection - RTK (<1m nominal) | $100/hr|
 |Photogrammetry Data Collection - 12MP | $25/hr|
 |Photogrammetry Data Collection - 24MP | $50/hr|
+
 ## IT Services
+
 |Service | Rate |
 |--------|------|
 |Data Backup & Transfer | $100/hr|
@@ -57,3 +62,4 @@ permalink: /services/
 |Processing - Point Cloud | $250
 |Processing - Report | $100
 |Processing - Textured Model | $250
+
