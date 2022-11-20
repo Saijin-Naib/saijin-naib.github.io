@@ -46,3 +46,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# Site Settings
+url: https://saijin-naib.github.io/
