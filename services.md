@@ -47,7 +47,9 @@ permalink: /services/
 |System Upgrade - Software | $75/hr|
 |Training - Individual | $100/hr|
 |Training - Group | $200/hr|
+
 ## sUAS Services
+
 |Service | Rate |
 |--------|------|
 |Data Collection - Infrared | $125/hr|
