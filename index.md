@@ -7,4 +7,4 @@
 #
 layout: default #home
 ---
-[Composite image of the world showing NVDI, City Lights At Night, Elevation, and Bathymetry from NASA Blue Marble Dataset]({{site.url}}/_posts/2022-11-20/NDVIWORLD.jpg "NDVIWORLD")
+[Composite image of the world showing NVDI, City Lights At Night, Elevation, and Bathymetry from NASA Blue Marble Dataset]({{site.url}}_posts/2022-11-20/NDVIWORLD.jpg "NDVIWORLD")
