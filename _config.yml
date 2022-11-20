@@ -24,7 +24,7 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day
 plugins:
   - jekyll-feed
   - jekyll-gist
