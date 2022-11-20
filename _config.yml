@@ -11,9 +11,9 @@ description: Carlocktograhy's GitHub Page
 github_username: Saijin-Naib
 
 # Email and twitter are optional:
-email: Carlocktography@Outlook.com
+email: 'Carlocktography@Outlook.com'
 #twitter_username:
-mastodon_username: @Brett_E_Carlock@Mastodon.Online
+mastodon_username: '@Brett_E_Carlock@Mastodon.Online'
 
 # Set this to true to get LaTeX math equation support
 use_math: true
