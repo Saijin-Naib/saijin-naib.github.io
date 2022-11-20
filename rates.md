@@ -3,16 +3,10 @@ layout: page
 title: Rates
 permalink: /rates/
 ---
+{{author.name}} aims to provide competitive rates for all services offered. As the business interests of {{author.name}} are always evolving, the below Services and Rates should not be considered exhaustive. Please reach out to {{author.name}} via E-Mail with any questions.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## GIS/RS Services
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## IT Services
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## sUAS Services
