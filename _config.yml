@@ -1,47 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-title: Carlocktography
-description: GIS, Remote Sensing, and IT Services company focused on Free/Open-Source software, data, and standards
-github_username: Saijin-Naib
+show_excerpts: false # set to true to show excerpts on the homepage
 
-# Email and twitter are optional:
-email: Carlocktography@Outlook.com
-#twitter_username:
-mastodon:
-- username: Brett_E_Carlock
-  instance: Mastodon.Online
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-# Set this to true to get LaTeX math equation support
-use_math: true
+  # generate social links in footer
+  social_links:
+    - { platform: devto,          user_url: "https://dev.to/jekyll" }
+    - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+    - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+    - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+    - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
+    - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+    - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+    - { platform: telegram,       user_url: "https://t.me/jekyll" }
+    - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
-# Everything below here can be ignored, unless you want to change the theme entirely
-remote_theme: pages-themes/leap-day
+# Build settings
+theme: minima
+
 plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jekyll-remote-theme
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
-
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
+ - jekyll-feed
+ - jekyll-seo-tag
