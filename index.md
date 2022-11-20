@@ -5,5 +5,6 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: default #home
 ---
+[Composite image of the world showing NVDI, City Lights At Night, Elevation, and Bathymetry from NASA Blue Marble Dataset](_includes/2022-11-20/NDVIWORLD.jpg "NDVIWORLD")
