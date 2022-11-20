@@ -7,13 +7,15 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Carlocktography
-description: Carlocktograhy's GitHub Page
+description: GIS, Remote Sensing, and IT Services company focused on Free/Open-Source software, data, and standards
 github_username: Saijin-Naib
 
 # Email and twitter are optional:
-email: 'Carlocktography@Outlook.com'
+email: Carlocktography@Outlook.com
 #twitter_username:
-mastodon_username: '@Brett_E_Carlock@Mastodon.Online'
+mastodon:
+- username: Brett_E_Carlock
+  instance: Mastodon.Online
 
 # Set this to true to get LaTeX math equation support
 use_math: true
