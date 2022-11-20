@@ -27,8 +27,8 @@ permalink: /services/
 |GPS Data Collection - Standard (5m nominal) | $50/hr|
 |GPS Data Collection - PPK (1.5m nominal) | $75/hr|
 |GPS Data Collection - RTK (<1m nominal) | $100/hr|
-|Photogrammetry Data Collection - 12MP | $25/hr|
-|Photogrammetry Data Collection - 24MP | $50/hr|
+|Photogrammetry Data Collection - 12MP | $100/hr|
+|Photogrammetry Data Collection - 24MP | $125/hr|
 
 ## IT Services
 
@@ -60,7 +60,7 @@ permalink: /services/
 |Flight Planning - Waiver | $200/hr|
 |Processing - DEM Products | $250
 |Processing - Full | $500
-|Processing - Orthophoto | $
+|Processing - Orthophoto | $250
 |Processing - Point Cloud | $250
 |Processing - Report | $100
 |Processing - Textured Model | $250
