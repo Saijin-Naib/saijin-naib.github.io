@@ -10,9 +10,10 @@ permalink: /services/
 
 |Fee | Rate |
 |----|------|
-|Minimum Fee | $100|
+|Deployment - Minimum Fee | $100|
 |Drive Mileage (>10mi) | IRS Standard Mileage Rate|
 |Drive Time (>20min) | $60/hr|
+|Remote - Minimum Fee | $50|
 
 ## GIS/RS Services
 

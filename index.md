@@ -8,4 +8,4 @@
 layout: default #home
 ---
 # The World Is Under Construction
-![Composite image of the world showing NVDI, City Lights At Night, Elevation, and Bathymetry from NASA Blue Marble Dataset]({{site.url}}assets/images/2022-11-20/NDVIWORLD.jpg "NDVIWORLD")
+![Composite image of the world showing NVDI, City Lights At Night, Elevation, and Bathymetry from NASA Blue Marble Dataset]({{site.url}}assets/images/UnderConstruction/NDVIWORLD.jpg "Composite image of the world showing NVDI, City Lights At Night, Elevation, and Bathymetry from NASA Blue Marble Dataset")
