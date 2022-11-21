@@ -7,7 +7,7 @@ permalink: /community/
 
 |     | Project | Contributor  | Donor |
 |-----|---------|--------------|-------|
-| ![Alpine Linux Logo]({{site.url}}assets/images/Community/Alpine_Linux.svg) | [Alpine Linux](https://www.alpinelinux.org) | ☑ | ☐ |
+| <img src="{{site.url}}assets/images/Community/Alpine_Linux.svg" width="10%"> | [Alpine Linux](https://www.alpinelinux.org) | ☑ | ☐ |
 | ![ArduPilot Logo]({{site.url}}assets/images/Community/ArduPilot_Logo.svg) | [ArduPilot](https://www.ardupilot.org) | ☑ | ☑ |
 | ![ArduSimple Logo]({{site.url}}assets/images/Community/ArduSimple.svg) | [ArduSimple](https://www.ardusimple.com) | ☐ | ☐ |
 | ![GNOME Builder Logo]({{site.url}}assets/images/Community/GNOME_Builder.svg) | [GNOME Builder](https://wiki.gnome.org/Apps/Builder) | ☑ | ☐ |
