@@ -16,4 +16,4 @@ permalink: /community/
 | <img src="{{site.url}}assets/images/Community/odm-logo.svg" width="96"> | [OpenDroneMap](https://www.opendronemap.org)<br>Creating the most sustainable drone mapping software with the friendliest community on Earth. | ☑ | ☑ |
 | <img src="{{site.url}}assets/images/Community/OSGeo_Logo.svg" width="96"> | [OSGeo](https://www.osgeo.org)<br>A not-for-profit organization whose mission is to foster global adoption of open geospatial technology. | ☑ | ☑ |
 | <img src="{{site.url}}assets/images/Community/UAV4Geo_Logo.svg" width="96"> | [UAV4Geo](https://www.uav4geo.com)<br>Computer Vision, UX design and GIS specialists, with a passion for flying robots. | ☑ | ☑ |
-| <img src="{{site.url}}assets/images/Community/Xfce_logo.svg" width="96"> | [XFCE](https://www.xfce.org)<br>A fast, lightweight, visually-appearing,user-friendly desktop environment for UNIX-like operating systems. | ☑ | ☐ |
+| <img src="{{site.url}}assets/images/Community/Xfce_logo.svg" width="96"> | [XFCE](https://www.xfce.org)<br>A fast, lightweight, visually-appealing, user-friendly desktop environment for UNIX-like operating systems. | ☑ | ☐ |
