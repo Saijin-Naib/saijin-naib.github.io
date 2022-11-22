@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1.5in"
+   height="1.5in"
+   version="1.1"
+   id="svg3094"
+   sodipodi:docname="OSGeo_Logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3098" />
+  <sodipodi:namedview
+     id="namedview3096"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.9678571"
+     inkscape:cx="133.39383"
+     inkscape:cy="90.199639"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3094"
+     units="in"
+     inkscape:document-units="in" />
+  <g
+     id="g3319"
+     transform="matrix(0.79695793,0,0,0.79695793,0.19440132,0.19440132)">
+    <g
+       id="g3361">
+      <path
+         d="M 85.5,0 74.199219,19.800781 c -30.8,6.9 -54.09961,33.398828 -56.09961,65.798828 h 18.09961 C 38.399219,59.299609 59.3,38.399219 85.5,36.199219 Z M 90,42.800781 84.400391,77 95.599609,84.5 103.09961,95.699219 137.30078,90 103.09961,84.400391 117.90039,62.199219 95.699219,77 Z M 77,84.400391 42.800781,90.099609 77,95.699219 62.199219,117.90039 84.300781,103.09961 90,137.30078 95.699219,103.09961 84.5,95.599609 Z m 66.90039,10.199218 c -2.2,26.200001 -23.10078,47.100781 -49.300781,49.300781 v 36.29883 L 105.90039,160.40039 C 136.70039,153.50039 160,126.99961 162,94.599609 Z"
+         style="fill:#FFFFFF"
+         id="path3090" />
+      <path
+         d="m 94.599609,18.099609 v 18.09961 C 120.79961,38.399219 141.70039,59.3 143.90039,85.5 h 36.29883 L 160.40039,74.199219 c -6.9,-30.8 -33.40078,-54.09961 -65.800781,-56.09961 z M 62.199219,62.199219 84.5,95.599609 117.90039,117.90039 95.599609,84.5 Z M 90,86.099609 C 92.1,86.099609 93.900391,87.9 93.900391,90 93.900391,92.1 92.2,93.900391 90,93.900391 87.8,93.900391 86.099609,92.1 86.099609,90 86.099609,87.8 87.9,86.099609 90,86.099609 Z m -90,8.5 19.800781,11.300781 c 6.9,30.8 33.398828,54.09961 65.798828,56.09961 v -18.09961 c -26.3,-2.2 -47.20039,-23.10078 -49.40039,-49.300781 z"
+         style="fill:#FFFFFF"
+         id="path3092" />
+    </g>
+  </g>
+</svg>
