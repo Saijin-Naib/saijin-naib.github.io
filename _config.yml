@@ -38,7 +38,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - services.md
-- community.md
+- ecosystem.md
 - giveback.md
 - about.md
 
