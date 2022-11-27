@@ -1,2 +1,8 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+@font-face {
+    font-family: OCRB;
+    src: url({{site.url}}assets/fonts/OCRB.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
