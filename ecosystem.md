@@ -15,5 +15,6 @@ permalink: /ecosystem/
 | <img src="{{site.url}}assets/images/Ecosystem/NorthRoad.svg" width="96"> | [North Road](https://www.north-road.com)<br>Offers services and training to create intelligent and beautiful maps. | ☑ | ☑ |
 | <img src="{{site.url}}assets/images/Ecosystem/odm-logo.svg" width="96"> | [OpenDroneMap](https://www.opendronemap.org)<br>Creating the most sustainable drone mapping software with the friendliest Ecosystem on Earth. | ☑ | ☑ |
 | <img src="{{site.url}}assets/images/Ecosystem/OSGeo_Logo.svg" width="96"> | [OSGeo](https://www.osgeo.org)<br>A not-for-profit organization whose mission is to foster global adoption of open geospatial technology. | ☑ | ☑ |
+| <img src="{{site.url}}assets/images/Ecosystem/PoTree_Logo.svg" width="96"> | [PoTree](https://www.potree.org)<br>WebGL point cloud viewer for large datasets. | ☐ | ☑ |
 | <img src="{{site.url}}assets/images/Ecosystem/UAV4Geo_Logo.svg" width="96"> | [UAV4Geo](https://www.uav4geo.com)<br>Computer Vision, UX design and GIS specialists, with a passion for flying robots. | ☑ | ☑ |
 | <img src="{{site.url}}assets/images/Ecosystem/Xfce_logo.svg" width="96"> | [XFCE](https://www.xfce.org)<br>A fast, lightweight, visually-appealing, user-friendly desktop environment for UNIX-like operating systems. | ☑ | ☐ |
