@@ -5,9 +5,11 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home #default
+layout: home
+title: Saijin-Naib
+permalink: /home/
 ---
-# The World Is Under Construction
+
 ```
 To Be Released Soon...
 ```
