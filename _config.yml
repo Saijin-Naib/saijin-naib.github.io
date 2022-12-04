@@ -1,9 +1,9 @@
-title: Carlocktography
+title: Saijin_Naib
 author:
-  name: "Carlocktography"
-  email: "Carlocktography@Outlook.com"
+  name: "Saijin_Naib"
+  email: "Saijin_Naib@Outlook.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  GIS, Remote Sensing, IT, and sUAS Services company focused on Free/Open-Source software, data, and standards
+  Really bad code
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -19,7 +19,7 @@ minima:
     #- { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
     #- { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
     #- { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-     - { platform: github,         user_url: "https://github.com/Carlocktography" }
+     - { platform: github,         user_url: "https://github.com/Saijin-Naib" }
     #- { platform: gitlab,         user_url: "https://gitlab.com/jekyl/minima" }
     #- { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
     #- { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
@@ -37,9 +37,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- services.md
-- ecosystem.md
-- giveback.md
+#- services.md
+#- ecosystem.md
+#- giveback.md
 - about.md
 
 # Build settings
